@@ -19,8 +19,8 @@ The VM's will have case by case specs.
 
 ### What you will learn 
 
-1 - How important are VM's in the real world. 
-2 - How to upgade/downgrade existing VM's. 
-3 - How to create username and secure password. 
-4 - How to RDP and what RDP is used for ****** (what protocol it uses etc)
+- How important are VM's in the real world. 
+- How to upgade/downgrade existing VM's. 
+- How to create username and secure password. 
+- How to RDP and what RDP is used for ****** (what protocol it uses etc)
 
