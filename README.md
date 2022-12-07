@@ -15,7 +15,7 @@ https://www.microsoft.com/software-download/windows11
 ### Prerequisites
 
 I need to see current specs of your machine. I need a screenshot of system prefrences or open task manager and send me a screenshot of performance. 
-The VM's will have case by case specs.
+The VM's will have case by case specs. Upload your current specs to GITHUB with your name.
 
 ### What you will learn 
 
