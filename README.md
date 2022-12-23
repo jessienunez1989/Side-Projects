@@ -26,19 +26,17 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 
 # December 25th Breakdown
 
-How to open VNC defualt TCP 1194 port on the router
-
 ## Getting Started
 
-Upload pics of model router/wireless router
-*** You might need your ISP username and password to actually go in but I will help you guys with that ***
-Create user's with limited access into user's group
-Find out your current WAN IP address
+- Upload pics of model router/wireless router
+- *** You might need your ISP username and password to actually go in but I will help you guys with that ***
+- Create user's with limited access into user's group
+- Find out your current WAN IP address
 
 ### What you will learn
 
-No-IP DUC local install to create a DNS for home
-How to RDP with both IP:3389/1194 - DNS:3389/1194
-How to change port numbers and understanding registry
-How to enable disable ports on your router
-What is DMZ
+- No-IP DUC local install to create a DNS for home
+- How to RDP with both IP:3389/1194 - DNS:3389/1194
+- How to change port numbers and understanding registry
+- How to enable disable ports on your router
+- What is a DMZ
