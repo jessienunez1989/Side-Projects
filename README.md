@@ -43,7 +43,7 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 
 # January 1st Quiz
 
-![giphy](https://user-images.githubusercontent.com/119669931/209740136-8119de0a-6738-4352-9134-ac46fc252663.gif)
+![undefined - Imgur](https://user-images.githubusercontent.com/119669931/209740058-165678e1-b815-413d-9949-6c0b87cb3aeb.gif)
 
 
 ## The Test
@@ -60,9 +60,7 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 - Open RDP port on router
 - Connect to each others machine using DNS name only
 
-## You guys need to work together. If one fail both fail and I will be upset. Lets not get me upset. 
+## You guys need to work together. If one fail both fail and I will be upset. Lets not get me upset. Let the games begin!
 
-## Let the games begin!
-
-![undefined - Imgur](https://user-images.githubusercontent.com/119669931/209740058-165678e1-b815-413d-9949-6c0b87cb3aeb.gif)
+![giphy](https://user-images.githubusercontent.com/119669931/209740136-8119de0a-6738-4352-9134-ac46fc252663.gif)
 
