@@ -43,7 +43,9 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 
 # January 1st Quiz
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/lkibHaGO1xmJXapEdq/video" width="480"></iframe></div>
+<div 
+style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/lkibHaGO1xmJXapEdq/video" width="480"></iframe>
+</div>
 
 ## The Test
 
