@@ -41,4 +41,27 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 - How to enable disable ports on your router
 - What is a DMZ
 
+# January 1st Quiz
+
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/lkibHaGO1xmJXapEdq/video" width="480"></iframe></div>
+
+## The Test
+
+- Create Windows 11 VM (Using minimum 11 requirements only)
+- Bridge LAN from PC
+- Create account using secure password
+- Install Chrome/Discord/Malwarebytes/Filezilla
+- Create NEW DNS name and install DUC
+- ping each others DNS name
+- Create local accounts for each other and message each other username and password
+- Create an account for me on each PC and send me info
+- Enable RDP on machine
+- Open RDP port on router
+- Connect to each others machine using DNS name only
+
+## You guys need to work together. If one fail both fail and I will be upset. Lets not get me upset. 
+
+## Let the games begin!
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/WeM3bi1akoVQ4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/WeM3bi1akoVQ4">via GIPHY</a></p>
 
