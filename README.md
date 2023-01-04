@@ -64,3 +64,7 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 
 ![giphy](https://user-images.githubusercontent.com/119669931/209740136-8119de0a-6738-4352-9134-ac46fc252663.gif)
 
+# January 8th 
+
+- https://openai.com/api/
+
