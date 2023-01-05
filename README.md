@@ -66,5 +66,13 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 
 # January 8th 
 
-- https://openai.com/api/
+## Understanding Windows 11 Fundamentals
+
+- Basic Networking
+- Firewall rules
+- Services
+- Log's
+
+## Open AI and how it will benefit the class
+- https://openai.com/api/ 
 
