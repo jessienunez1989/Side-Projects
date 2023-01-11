@@ -66,6 +66,12 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 
 # January 8th 
 
+## Resolving a VPN issue
+
+- Troubleshooting a live issue with a user
+
+# January 5th 
+
 ## Understanding Windows 11 Fundamentals
 
 - Basic Networking
@@ -75,4 +81,3 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 
 ## Open AI and how it will benefit the class
 - https://openai.com/api/ 
-
