@@ -64,13 +64,13 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 
 ![giphy](https://user-images.githubusercontent.com/119669931/209740136-8119de0a-6738-4352-9134-ac46fc252663.gif)
 
-# January 8th 
+# January 5th 
 
 ## Resolving a VPN issue
 
 - Troubleshooting a live issue with a user
 
-# January 5th 
+# January 8th 
 
 ## Understanding Windows 11 Fundamentals
 
@@ -81,3 +81,7 @@ The VM's will have case by case specs. Upload your current specs to GITHUB with 
 
 ## Open AI and how it will benefit the class
 - https://openai.com/api/ 
+
+# January 22nd
+
+ - We are going to build Ralphy a computer
